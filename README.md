@@ -87,7 +87,7 @@ Other recommended projects:<br>
 ## 🔧 Dependencies and Installation
 
 - Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
-- [PyTorch >= 1.7](https://pytorch.org/)
+- [PyTorch >= 1.7](https://pytorch.org/) (See [here](PYTORCH_WSL_ROCM_REQUIREMENTS.md) for WSL ROCM requirements)
 
 ### Installation
 
