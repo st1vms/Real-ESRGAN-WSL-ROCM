@@ -88,6 +88,10 @@ Other recommended projects:<br>
 
 - Python >= 3.7 (Recommend to use [Anaconda](https://www.anaconda.com/download/#linux) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html))
 - [PyTorch >= 1.7](https://pytorch.org/) (See [here](PYTORCH_WSL_ROCM_REQUIREMENTS.md) for WSL ROCM requirements)
+- [ffmpeg](https://www.ffmpeg.org/download.html) is also required for videos
+    ```bash
+    sudo apt install ffmpeg
+    ```
 
 ### Installation
 
