@@ -102,8 +102,8 @@ Other recommended projects:<br>
 
     ```bash
     # Install basicsr - https://github.com/xinntao/BasicSR
-    # We use BasicSR for both training and inference
-    pip install basicsr
+    # We use BasicSR for both training and inference (install latest version from git)
+    pip install git+https://github.com/XPixelGroup/BasicSR.git
     # facexlib and gfpgan are for face enhancement
     pip install gfpgan
 
