@@ -107,7 +107,7 @@ Other recommended projects:<br>
     # facexlib and gfpgan are for face enhancement
     pip install facexlib
     pip install gfpgan
-    pip install -r requirements.txt
+    pip install Pillow
     python setup.py develop
     ```
 
