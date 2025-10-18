@@ -105,8 +105,11 @@ Other recommended projects:<br>
     # We use BasicSR for both training and inference
     pip install basicsr
     # facexlib and gfpgan are for face enhancement
-    pip install facexlib
     pip install gfpgan
+
+    # (st1vms) WSL ROCM Patch for facexlib
+    pip install git+https://github.com/st1vms/facexlib-wsl-rocm.git
+    
     pip install Pillow
     python setup.py develop
     ```
